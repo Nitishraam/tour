@@ -239,5 +239,7 @@
     .inc{
         width: 100%;
     }
-    
+    .home h5{
+        font-size: 12px;
+    }
 }
