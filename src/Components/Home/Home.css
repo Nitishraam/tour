@@ -242,4 +242,10 @@
     .home h5{
         font-size: 12px;
     }
+    .full{
+        width: 100%;
+    }
+    .contact{
+        width: 30%;
+    }
 }
