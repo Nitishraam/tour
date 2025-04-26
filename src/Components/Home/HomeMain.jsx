@@ -85,7 +85,8 @@ const HomeMain = () => {
             <h5>1230 coast village road,monecito,CA 93180</h5>
           </div>
         </div>
-       <div id='about-section'>
+        
+        <div id='about-section'>
         <About/>
        </div>
        
@@ -97,7 +98,7 @@ const HomeMain = () => {
         ))}
        </div>
 
-  
+      
 
           <div id='list-section'>
             <List/>

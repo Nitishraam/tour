@@ -195,3 +195,49 @@
     text-decoration: none;
     color: black;
 }
+@media(max-width:600px){
+    .contmain{
+        flex-direction: column;
+    }
+    .cont1{
+        width: 100%;
+    }
+    .cont2{
+        width: 100%;
+    }
+    .cont3{
+        width: 100%;
+    }
+    .first{
+        flex-direction: column;
+        gap: 0px;
+        margin-left: 0px;
+    }
+    .child1{
+        width: 90%;
+    }
+    .city{
+        flex-wrap: wrap;
+    }
+    .citychild1{
+        width: 100%;
+        height: 100vh;
+    }
+    .citychild2{
+        width: 100%;
+
+        height: 100vh;
+    }
+    .citychild3{
+        width: 100%;
+
+        height: 100vh;
+    }
+    .flex{
+        grid-template-columns: repeat(1,1fr);
+    }
+    .inc{
+        width: 100%;
+    }
+    
+}
