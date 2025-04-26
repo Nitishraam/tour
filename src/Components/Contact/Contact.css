@@ -1,0 +1,69 @@
+.footer {
+    text-align: center;
+    background-color: #f9f9f9;
+    padding: 40px 20px;
+    font-family: 'Arial', sans-serif;
+  }
+  
+  .footer-top {
+    margin-bottom: 20px;
+  }
+  
+  .footer-brand h2 {
+    font-size: 24px;
+    font-weight: bold;
+  }
+  
+  .footer-brand span {
+    display: block;
+    font-size: 16px;
+    font-weight: normal;
+  }
+  
+  .forbes {
+    font-size: 14px;
+    margin-top: 10px;
+    color: #555;
+  }
+  
+  .footer-tagline {
+    font-size: 20px;
+    margin-top: 20px;
+    font-weight: 500;
+  }
+  
+  .footer-icons {
+    margin: 20px 0;
+  }
+  
+  .footer-icons a {
+    color: #333;
+    margin: 0 10px;
+    font-size: 20px;
+    text-decoration: none;
+  }
+  
+  .footer-mid {
+    margin: 20px 0;
+  }
+  
+  .leading {
+    font-style: italic;
+    font-size: 16px;
+    margin-bottom: 5px;
+  }
+  
+  .dre {
+    font-size: 14px;
+    color: #777;
+  }
+  
+  .footer-bottom {
+    font-size: 12px;
+    color: #777;
+    margin-top: 20px;
+    max-width: 600px;
+    margin-left: auto;
+    margin-right: auto;
+  }
+  
